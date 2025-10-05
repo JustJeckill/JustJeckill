@@ -9,14 +9,16 @@
   <li>HTML/HTML5</li>
   <li>CSS/CSS3</li>
   <li>JavaScript/ES6</li>
+  <li>Typescript</li>
   <li>React</li>
-  <li>Redux (Toolkit)</li>
-  <li>Webpack</li>
+  <li>Redux (Redux-Toolkit)</li>
+  <li>Vite/Webpack</li>
   <li>SASS/SCSS Preprocessors</li>
   <li>npm/yarn</li>
   <li>Node.js</li>
+  <li>Express.js</li>
   <li>REST APIs</li>
   <li>Docker</li>
-  <li>GIT</li>
+  <li>GIT (GitHub, GitLab)</li>
   <li>Jira, Trello (Project Management Tools)</li>
 </ul>
