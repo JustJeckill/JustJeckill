@@ -14,7 +14,7 @@
   <li>Redux (Redux-Toolkit)</li>
   <li>Vite/Webpack</li>
   <li>SASS/SCSS Preprocessors</li>
-  <li>Material UI, Tailwind CSS, PostCSS</li>
+  <li>Material UI, Tailwind CSS, PostCSS, shadcn</li>
   <li>Animations (lottie, react-lottie)</li>
   <li>SPA, SSR, SSG</li>
   <li>npm/yarn</li>
