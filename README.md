@@ -14,7 +14,7 @@
   <li>Redux (Redux-Toolkit)</li>
   <li>Vite/Webpack</li>
   <li>SASS/SCSS Preprocessors</li>
-  <li>Material UI, Tailwind CSS, PostCSS, shadcn</li>
+  <li>Material UI, PostCSS, Tailwind CSS, shadcn</li>
   <li>Animations (lottie, react-lottie)</li>
   <li>SPA, SSR, SSG</li>
   <li>npm/yarn</li>
@@ -23,6 +23,7 @@
   <li>NestJS</li>
   <li>MySQL, PostgreSQL, MongoDB</li>
   <li>Prisma, Sequelize</li>
+  <li>Tests (Jest, Cypress)</li>
   <li>REST API, GraphQL, WebSockets</li>
   <li>Docker</li>
   <li>GIT (GitHub, GitLab)</li>
