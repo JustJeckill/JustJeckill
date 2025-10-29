@@ -26,7 +26,7 @@
   <li>Tests (Jest, Cypress)</li>
   <li>REST API, GraphQL, WebSockets</li>
   <li>Parsing, rendering tools (Cheerio, Puppeteer/Playwright)</li>
-  <li>Stripe, PayPal API</li>
+  <li>Payments (Stripe, PayPal API)</li>
   <li>Docker</li>
   <li>GIT (GitHub, GitLab)</li>
   <li>ESLint, Prettier</li>
