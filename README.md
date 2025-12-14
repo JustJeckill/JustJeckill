@@ -12,6 +12,7 @@
   <li>Typescript</li>
   <li>React, Next</li>
   <li>Redux (Redux-Toolkit)</li>
+  <li>React Hook Form + Zod</li>
   <li>Tanstack Query</li>
   <li>Vite/Webpack</li>
   <li>SASS/SCSS Preprocessors</li>
