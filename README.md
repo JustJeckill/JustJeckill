@@ -2,7 +2,11 @@
 <h2><em>Full-Stack Web Developer</em></h2>
 
 <h3>About me:</h3>
-<p>As a highly adaptable and proactive front-end developer with over 4 years of experience, I excel as a collaborative team member in dynamic, fast-paced settings. My expertise spans the development and maintenance of numerous WordPress websites, alongside the successful implementation and long-term support of several React.js applications. I’m focusing on clean code, usability, and performance optimization. I quickly grasp new technologies and frameworks. I am passionate about staying up to date with industry trends, always eager to innovate and enhance my skill set</p>
+<p>I’m a Front-End Developer with 5 years of experience, focused on building fast, scalable, and user-friendly web applications. My core expertise lies in modern frontend development, including React, Next.js, TypeScript, and clean UI architecture.
+
+Over the past six months, I’ve also been working on the server side, gaining hands-on experience with Node.js, Express, NestJS, and PostgreSQL. This full-stack exposure strengthened my understanding of application structure, API design, authentication, and deployment.
+
+I write clean, maintainable code, collaborate effectively with designers and backend engineers, and enjoy contributing to both product quality and architecture. I’m constantly learning and adapting to new technologies, aiming to deliver reliable and well-structured solutions.</p>
 
 <h3>Tech stack:</h3>
 <ul>
