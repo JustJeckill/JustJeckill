@@ -33,8 +33,8 @@ I write clean, maintainable code, collaborate effectively with designers and bac
   <li>REST API, GraphQL, WebSockets</li>
   <li>Parsing, rendering tools (Cheerio, Puppeteer/Playwright)</li>
   <li>Payments (Stripe, PayPal API)</li>
-  <li>Mailing (SMTP, Nodemailer, Postmark)</li>
-  <li>Docker</li>
+  <li>Mailing (SendGrid, SMTP, Nodemailer, Postmark)</li>
+  <li>Docker, CI/CD</li>
   <li>GIT (GitHub, GitLab)</li>
   <li>ESLint, Prettier, lint-staged, husky</li>
   <li>Jira, Trello (Project Management Tools)</li>
