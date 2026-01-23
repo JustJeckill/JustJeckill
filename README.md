@@ -1,5 +1,5 @@
 <h1>👋 Hey there, I'm Yevhen Duplenko 👋</h1>
-<h2><em>Full-Stack Web Developer</em></h2>
+<h2><em>Front-End / Full-Stack Web Developer</em></h2>
 
 <h3>About me:</h3>
 <p>I’m a Front-End Developer with 5 years of experience, focused on building fast, scalable, and user-friendly web applications. My core expertise lies in modern frontend development, including React, Next.js, TypeScript, and clean UI architecture.
