@@ -35,6 +35,7 @@ I write clean, maintainable code, collaborate effectively with designers and bac
   <li>Payments (Stripe, PayPal API)</li>
   <li>Mailing (SendGrid, SMTP, Nodemailer, Postmark)</li>
   <li>Docker, CI/CD</li>
+  <li>Redis</li>
   <li>GIT (GitHub, GitLab)</li>
   <li>ESLint, Prettier, lint-staged, husky</li>
   <li>Jira, Trello (Project Management Tools)</li>
